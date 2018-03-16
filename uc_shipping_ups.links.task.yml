@@ -1,0 +1,4 @@
+uc_shipping_ups.settings:
+  route_name: uc_shipping_ups.settings
+  parent_id: uc_quote.settings
+  title: UPS
